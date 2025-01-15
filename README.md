@@ -1,2 +1,2 @@
 # USAmap
-HexMap of USA
+It is just a HexMap of the USA
